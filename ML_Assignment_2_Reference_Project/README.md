@@ -20,9 +20,9 @@ Build and compare five supervised classifiers on **one public classification dat
 
 ## c. GitHub Repository Link
 
-**REPLACE WITH YOUR PUBLIC REPOSITORY URL:** `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`
+**REPLACE WITH YOUR PUBLIC REPOSITORY URL:** `https://github.com/shivupadhyay/ML_Assignment_2_Complete_Project/tree/main/ML_Assignment_2_Reference_Project`
 
-**Streamlit Community Cloud app:** `https://YOUR_APP_NAME.streamlit.app` (replace after deployment).
+**Streamlit Community Cloud app:** `https://mlassignment2completeproject-makb5jpdg7ms4vgmek4jfb.streamlit.app/`.
 
 ## d. Models used and comparison table
 
