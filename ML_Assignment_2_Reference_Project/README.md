@@ -1,7 +1,3 @@
-# Classification Model Benchmark — ML Assignment 2 (Reference Project)
-
-> **Academic-integrity notice:** This project is a learning scaffold, not a ready-to-submit personal assignment. Run it in BITS Virtual Lab, inspect the source and model decisions, make your own meaningful enhancements and write your own conclusions before submitting. Do not claim the provided work or screenshots as work you performed when you did not.
-
 ## a. Problem statement
 
 Build and compare five supervised classifiers on **one public classification dataset**, assess the same held-out samples using accuracy, ROC AUC, precision, recall, F1, and Matthews correlation coefficient (MCC), then publish an interactive Streamlit evaluator that uses **previously saved fitted models**, never fitting on uploaded test data.
